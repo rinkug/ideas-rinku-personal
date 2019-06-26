@@ -1,12 +1,15 @@
 <div align="center">
+  
+# ![HOW-TO](ideas-how-to.jpg)
 
-# How to Configure Software
+# How to Configure Software 
 
-####  The IDEAS Scientific Software Productivity Project
+####  The IDEAS Scientific Software Productivity Project 
 
 ##### [ideas-productivity.org/resources/howtos/](https://ideas-productivity.org/resources/howtos/)
 
 #### Contributed by [Jason Sarich](https://github.com/sarich)
+
 </div>
 
 

@@ -64,9 +64,14 @@ A: Taking weeks or months (or years) to add sufficient tests for an entire exist
 **Q: Why demand 100% passing pre-push regression tests?**
 A: This avoids expensive debugging and other investigations needed to determine whether your changes are breaking failing tests or not (hard). If all tests pass, then your changes could be breaking them (easy).
 
+References:
+[1] Feathers, Michael. Working Effectively with Legacy Code. Prentice Hall, 2005
+[2] Legacy Software Change Algorithm: http://trilinos.org/trac/trilinos/wiki/TribitsLegacySoftwareChangeAlgorithm
+[3] Beck, Kent. Test Driven Development. Addison Wesley, 2003
+[4] McConnell, Steve. Code Complete (Second Edition). Microsoft Press, 2004
 
-
-*This document was prepared by Anshu Dubey with key contributions from Ulrike Yang, Michael A. Heroux, Todd Gamblin, and Irina Demeshko.*
+*This document was prepared by Ulrike Yang, Roscoe A. Bartlett, Glenn Hammond, Xiaoye Li, Barry Smith,
+and James M. Willenbring.*
 
 *This material is based upon work supported by the U.S. Department of Energy Office of Science, Advanced Scientific
 Computing Research and Biological and Environmental Research programs.*

@@ -23,7 +23,7 @@ Show how to add quality testing to a project in order to support efficient modif
 
 ### Prerequisites
 
-First read the document *[What Are Software Testing Practices?](http://ideas-productivity.org/wordpress/wp-content/uploads/2016/04/IDEAS-TestingWhatAreSoftwareTestingPractices-V0.2.pdf)* and browse through *[Definition and Categorization of Tests for CSE Software](http://ideas-productivity.org/wordpress/wp-content/uploads/2016/04/IDEAS-TestingWhatIsDefinitionandCategorizationofTestsforCSESoftware-V0.2.pdf).
+First read the document *[What Are Software Testing Practices?](http://ideas-productivity.org/wordpress/wp-content/uploads/2016/04/IDEAS-TestingWhatAreSoftwareTestingPractices-V0.2.pdf)* and browse through *[Definition and Categorization of Tests for CSE Software](http://ideas-productivity.org/wordpress/wp-content/uploads/2016/04/IDEAS-TestingWhatIsDefinitionandCategorizationofTestsforCSESoftware-V0.2.pdf)*.
 
 ### Steps
 1. Set up **automated builds of the code** with high warning levels and eliminate all warnings.

@@ -27,14 +27,14 @@ First read the document [What Is Version Control](https://ideas-productivity.org
 
 ### Basic Git Setup
 Before using Git on a new machine, perform the following minimal setup:
-* Set up minimal Git settings for your account, including “user.name,” “user.email,” “color.ui,” “push.default,” and “rerere.enabled” [1].
+* [Set up minimal Git settings for your account, including “user.name,” “user.email,” “color.ui,” “push.default,” and “rerere.enabled”](https://ideas-productivity.org/resources/howtos/git-tutorial-and-reference-collection/beginner-tips/)[1].
 * Install scripts locally for the Git shell prompt ([git-prompt.sh](https://raw.github.com/git/git/master/contrib/completion/git-prompt.sh)) and Git tab completion  ([git-completion.bash](https://raw.github.com/git/git/master/contrib/completion/git-completion.bash)), and add them to your shell (see documentation in the scripts).
 
 ### Learn to Use Git
 
 Understanding Git from an algorithms and data-structure perspective, rather
 than just learning commands, can increase software quality and developer productivity.
-* If you are a self-learner, review the Git Tutorial and R eference Collection [2].
+* If you are a self-learner, review the [Git Tutorial and Reference Collection](https://ideas-productivity.org/resources/howtos/git-tutorial-and-reference-collection/)[2].
 * For a more structured approach, take the course How to Use Git and GitHub [3].
 * Search Google for specific issues. StackOverflow often has an exact solution.
 

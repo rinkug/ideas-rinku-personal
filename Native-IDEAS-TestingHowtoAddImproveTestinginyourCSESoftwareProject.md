@@ -36,7 +36,7 @@ First read the document *[What Are Software Testing Practices?](http://ideas-pro
   b. Set up no-change or verification tests with a system-level test harness in order to pin down important behavior.
 4. **Add integration and unit tests** (as needed for adding/changing code)
   a. **Incorporate test** [1, 2] **for code to be changed**
-    * **Identify change points** for target change or new code**
+    * **Identify change points** for target change or new code
     * **Find test points** where code behavior can be sensed.
     * **Break dependencies** in order to get the targeted code into the unit test harness.
     * **Cover targeted code** to be changed with sufficient (characterization) tests. 

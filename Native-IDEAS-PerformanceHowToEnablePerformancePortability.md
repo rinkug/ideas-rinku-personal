@@ -1,13 +1,9 @@
 <div align="center">
 
 # ![HOW-TO](ideas-how-to.jpg)
-
 # How to Enable Performance Portability for CSE Applications?
-
 ####  The IDEAS Scientific Software Productivity Project 
-
 ##### [ideas-productivity.org/resources/howtos/](https://ideas-productivity.org/resources/howtos/)
-
 #### Contributed by [Anshu Dubey](https://github.com/adubey64)
 
 </div>
@@ -46,7 +42,7 @@ The most important step is to know - before starting the refactoring - the final
 **Q: How do I choose which programming model to use in my application?**
 **A:** That depends on the target architecture and whether you want to be able to run on multiple platforms. At present not all programming models are compatible with all languages, so that might be another constraint. See [here](http://www.imr.sandia.gov/papers/imr24/RN18_IMR24_Quadros.pdf) and [here](http://dx.doi.org/10.1177/1094342012462751) for examples. **(I’d prefer to see something specific rather than “here and here” - perhaps, See examples with a mesh smoothing algorithm and with a spectral-element-based code.)**
 
-**Q:When should I use libraries for performance portability?**
+**Q: When should I use libraries for performance portability?**
 **A:** If the bulk of your computation time is spent in solvers that are available from a library, you should consider using it, even if you have to adjust your data structures. You are likely to get state-of-the-art performance portability and better-quality solutions.
 
 *This document was prepared by Anshu Dubey with key contributions from Ulrike Yang, Michael A. Heroux, Todd Gamblin, and Irina Demeshko.*

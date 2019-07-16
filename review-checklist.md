@@ -17,6 +17,8 @@ Once the document is ready for review, there are some checks that will be common
 - [x] Logos/images formatting
 - [x] Check is tags are set properly for displaying
 - [x] Check if professional proof-reading required. If yes, initiate and follow-through the entire proecedure
+- [x] Check preview site
+- [x] Check if it conforms to .md requirements of bssw.io frontend website and not just github
 
 ## Content Types Criteria Checklist
 

@@ -24,13 +24,15 @@ Once the document is ready for review, there are some checks that will be common
 Based on the type of content, additonal review criteria may come into picture.
 
 ### Event
-TBD
+- [x] Does it conform to event format?  (we havent yet figured out this format)
+- [x] TBD
 
-### Curated Content
+
+### Curated Content: can be of the following types
 We have decided to introduce a table (Example: [Bitbucket](https://bssw.io/items/an-introduction-to-bitbucket/) shows table for a website, [Legacy-code](https://bssw.io/items/working-effectively-with-legacy-code/) shows for a book, [Case studies paper](https://bssw.io/items/software-development-practices-in-academia-a-case-study-comparison/) shows for a paper, [Intro to Licensing](https://bssw.io/items/an-introduction-to-software-licensing/) for tutorials, [WSSSPE](https://bssw.io/items/an-introduction-to-the-wssspe-organization/) for organization) at the start of the curated content document to give consistency and a brief picture of what the curated content contains. The content of the table will be different for each curated content type (do we describe the layout of the table for each curated content in this document?). We havent yet discussed if such a table is needed outside of curated content resources.
 
 - [x] Curated content table formatted correctly? (headings need to be bold)
-- TBD
+- [x] TBD
 
 #### Publications
 - [x] Does it follow the rules for publications table?
@@ -45,7 +47,7 @@ We have decided to introduce a table (Example: [Bitbucket](https://bssw.io/items
 
 #### Web articles
 - [x] Does it follow the rules for web articles table?
-- [x]
+- [x] TBD
 
 #### Websites or Organization
 - [x] Does it follow the rules for organization/website table?
@@ -56,14 +58,13 @@ We have decided to introduce a table (Example: [Bitbucket](https://bssw.io/items
 - [x] ISBN numbers
 - [x] Does body text mention why this book is interesting, for what audience is may be suitable etc.?
 
-### Original Article 
+### Original Article: can be of the following types
 
 #### Blogs and original experiences
 - [x] Review for senstitive information
 - [x] PI approval (if article talks about anything that can be contrued as sensitive information)
-- TBD
-
+- [x] TBD
 
 ### How-to and What-is
 - [x] Does it follow the format of the how-to and what-is article? (we havent yet figured out this format)
-- TBD
+- [x] TBD

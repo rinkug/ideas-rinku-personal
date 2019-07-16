@@ -3,9 +3,9 @@
 
 ## Content Types background
 Before we can develop review checklists for various types of content, we need to
-have a clear idea of the types of content we expect to support.  As of the writing of this document, our understanding of our content types was described in the [What to Contribute](https://github.com/betterscientificsoftware/betterscientificsoftware.github.io/blob/91648f8f992639ad8a9f5467e00cf6dc1bec21a7/WhatToContribute.md) document.
+have a clear idea of the types of content we expect to support.  Our original understanding of our content types was described in the [What to Contribute](https://github.com/betterscientificsoftware/betterscientificsoftware.github.io/blob/91648f8f992639ad8a9f5467e00cf6dc1bec21a7/WhatToContribute.md) document.
 
-Please note that there is another PR/issue in the works which attempts to revise the content types and their attributes. The current link is as follows for this document: [content types and their attributes](https://github.com/betterscientificsoftware/betterscientificsoftware.github.io/blob/markcmiller86-content-types-doc/Site/ContentTypes.md) document.
+Please note that there is another PR/issue (PR [#373](https://github.com/betterscientificsoftware/betterscientificsoftware.github.io/pull/373), Issue [#361](https://github.com/betterscientificsoftware/betterscientificsoftware.github.io/issues/361)) in the works which attempts to revise the content types and their attributes. The current link is as follows for that document: [content types and their attributes](https://github.com/betterscientificsoftware/betterscientificsoftware.github.io/blob/markcmiller86-content-types-doc/Site/ContentTypes.md) document.
 
 ## Common review criteria
 Once the document is ready for review, there are some checks that will be common across all the content types. The following lists such common review criteria
@@ -47,7 +47,10 @@ TBD
 - [x] ISBN numbers
 - [x] Does body text mention why this book is interesting, for what audience is may be suitable etc.?
 
-### Original Article (Blogs and original experiences)
+### Original Article 
+
+#### Blogs and original experiences
 - [x] Review for senstitive information
 - [x] PI approval (if article talks about anything that can be contrued as sensitive information)
 
+### How-to and What-is

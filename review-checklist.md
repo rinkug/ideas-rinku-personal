@@ -1,4 +1,4 @@
-#Checklist for review of Content Types
+# Checklist for review of content types
 
 
 ## Content Types background
@@ -11,8 +11,9 @@ Please note that there is another PR/issue in the works which attempts to revise
 Once the document is ready for review, there are some checks that will be common across all the content types. The following lists such common review criteria
 - [x] Grammar and syntax
 - [x] Hyperlinks and their validity
-- [x] "Title format"
-- [x] "Table format" in curated content
+- [x] Title format
+- [x] Deck format
+- [x] Category list?
 - [x] Logos/images formatting
 - [x] Check is tags are set properly for displaying
 - [x] Check if professional proof-reading required. If yes, initiate and follow-through the entire proecedure
@@ -20,14 +21,29 @@ Once the document is ready for review, there are some checks that will be common
 ## Content Types Criteria Checklist
 
 ### Event
+TBD
 
 ### Curated Content
-#### Publications
-#### Tutorials
-#### Web articles
-#### Websites or Organizations
-#### Name of the document and where it will be placed in the directory
+- [x] Is the title formatted correctly?
+- [x] Table formatted correctly?
 
+#### Publications
+- [x] DOI verified
+- [x] Publication year, author list verified?
+- [x] Does body text mention why this paper is interesting, for what audience is may be suitable etc.?
+#### Tutorials
+- [x] Links to slide, slide-synced audio, video?
+- [x] Check if older versions of the tutorial existed on BSSw and are they candidates for removal? Check traffic statistics before removing older tutorials
+
+#### Web articles
+- [x]
+
+#### Websites or Organization
+- [x] Organization or website logo?
+
+#### Book
+- [x] ISBN numbers
+- [x] Does body text mention why this book is interesting, for what audience is may be suitable etc.?
 
 ### Original Article (Blogs and original experiences)
 - [x] Review for senstitive information

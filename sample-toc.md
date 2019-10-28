@@ -1,17 +1,52 @@
 # A Style Guide for BSSw content
 
 
+- [A Style Guide for BSSw content](#a-style-guide-for-bssw-content)
+  * [Background](#background)
+  * [Where to place your content in Github repo?](#where-to-place-your-content-in-github-repo-)
+  * [Naming your content in Github repo](#naming-your-content-in-github-repo)
+  * [Common Layout of All Resources](#common-layout-of-all-resources)
+    + [Content Title](#content-title)
+    + [Content Deck](#content-deck)
+    + [Content Description:](#content-description-)
+    + [Contributor name](#contributor-name)
+    + [Metadata](#metadata)
+  * [Styling Rules for Individual Content Type](#styling-rules-for-individual-content-type)
+    + [Curated Content:](#curated-content-)
+      - [Title](#title)
+      - [Deck](#deck)
+      - [Table](#table)
+          + [Book](#book)
+          + [Course](#course)
+          + [Organization](#organization)
+          + [Podcast](#podcast)
+          + [Publication](#publication)
+          + [Tutorial](#tutorial)
+          + [Webinar](#webinar)
+          + [Website](#website)
+          + [Web article](#web-article)
+          + [Notes on tables](#notes-on-tables)
+      - [Body text](#body-text)
+      - [Logo](#logo)
+      - [References](#references)
+    + [Original Article](#original-article)
+    + [Events](#events)
+  * [Understanding Metadata](#understanding-metadata)
+      - [Publish: Publish on the BSSw front-end site?](#publish--publish-on-the-bssw-front-end-site-)
+      - [Categories: Primary display via BSSw website interface](#categories--primary-display-via-bssw-website-interface)
+      - [Topics: Visible filters via BSSw website interface](#topics--visible-filters-via-bssw-website-interface)
+      - [Tags: Optional additional keywords for searches](#tags--optional-additional-keywords-for-searches)
+      - [Level: Specify level of detail and depth of content](#level--specify-level-of-detail-and-depth-of-content)
+      - [Prerequisites: Specify files for any assumed knowledge on the BSSw site (usually Level 0 and Level1 BSSw docs)](#prerequisites--specify-files-for-any-assumed-knowledge-on-the-bssw-site--usually-level-0-and-level1-bssw-docs-)
+      - [Aggregate: Optional info for aggregating content to define a more complex resource](#aggregate--optional-info-for-aggregating-content-to-define-a-more-complex-resource)
 
-## Table of contents
-
-<!--table start-->
-   * [Table of contents](#table-of-contents)
-   * [Background](#background)
-   * [Where to place your content in Github repo?](#where to place your content in github repo?)
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
- 
-<!--table end-->
+
+
+
+
 
 
 This is a work-in-progress style guide for all content that goes on the BSSw site. 

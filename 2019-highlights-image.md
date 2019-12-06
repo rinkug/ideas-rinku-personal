@@ -3,7 +3,7 @@
 **Hero Image:**
 - <img src="https://github.com/betterscientificsoftware/images/raw/master/Blog_010219_Mantage.png" />[2019 Highlights]
 
-#### Contributed by [Rinku Gupta](https://github.com/rinkug "Rinku Gupta GitHub Profile"
+#### Contributed by [Rinku Gupta](https://github.com/rinkug "Rinku Gupta GitHub Profile")
 
 #### Publication date: January 1, 2020
 

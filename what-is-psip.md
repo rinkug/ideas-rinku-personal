@@ -43,9 +43,7 @@ PSIPs is very lightweight.
 
 At the core of a PSIP is a simple progress tracking card (PTC). Progress tracking cards are concise visual aids that record your intended goals, deliverables, and milestones. You create a PTC so that you can progressively compare your team's progress toward an intended goal. 
 
-Note that PSIP PTCs are not meant to be external assessments or evaluation tools. A PTC is meant to be used internally in your team for your own progress tracking.
-
-PSIP can help develop best practices and the use of PTCs will help keep track of your progress toward an objective. You can also use or share PTCs when communicating to other teams about your goals and how you know when you will have met your objectives.
+Note that PSIP PTCs are not meant to be external assessments or evaluation tools. A PTC is meant to be used internally in your team for your own progress tracking. PSIP can help develop best practices and the use of PTCs will help keep track of your progress toward an objective. You can also use or share PTCs when communicating to other teams about your goals and how you know when you will have met your objectives.
 
 The [PSIP repository](https://github.com/bssw-psip/practice-guides/blob/master/README.md) has a collection of PTC cards for you to explore. Several of these existing PTC cards have been used by teams successfully. You can choose to select a PTC card for the objective/goal that you want to focus on. You can also choose a PTC card, customize it to meet your timeline and priorities. 
 
@@ -60,7 +58,7 @@ The PSIP team is happy to answer questions or to help you on your quest of impro
 
 
 <!---
-Publish: yes
+Publish: no
 RSS update: 2019-08-27
 Categories: planning, development, reliability
 Topics: software process improvement, refactoring, testing

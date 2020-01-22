@@ -6,7 +6,7 @@
  
 #### Contributed by [Rinku Gupta](https://github.com/rinkug)
 
-#### Publication date: Jan 10, 2020
+#### Publication date: Jan 24, 2020
 
 
 # What is PSIP?

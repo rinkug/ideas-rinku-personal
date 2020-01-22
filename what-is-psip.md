@@ -47,14 +47,19 @@ Note that PSIP PTCs are not meant to be external assessments or evaluation tools
 
 The [PSIP repository](https://github.com/bssw-psip/practice-guides/blob/master/README.md) has a collection of PTC cards for you to explore. Several of these existing PTC cards have been used by teams successfully. You can choose to select a PTC card for the objective/goal that you want to focus on. You can also choose a PTC card, customize it to meet your timeline and priorities. 
 
-# When should I practice PSIP?
-
-Of course PSIP can be initiated at anytime, and we find PSIP is especially helpful when you or your team are 1) onboarding new team members unfamiliar with your current process, 2) your code has a new set of users/collaborators who need to understand your process for version control, and 3) the growth and success of your code base requires your team to interface with other teams more frequently. If any of these conditions describe your situation, we recommend you practice PSIP! Even if none of these conditions describe your situation, we still recommend you practice PSIP to upgrade team practices anytime!
-
 # How can I contact the IDEAS PSIP team member?
 
 The PSIP team is happy to answer questions or to help you on your quest of improved software sustainability and quality. Please email us [psip@lists.mcs.anl.gov](psip@lists.mcs.anl.gov).
 
+
+# Are there other articles to read on PSIP?
+The [PSIP repository](https://github.com/bssw-psip/practice-guides/blob/master/README.md) is an excellent place to start the PSIP journey. In addition, the following resources may be beneficial in providing more information on PSIPs.
+
+- [Planning for Better Software: PSIP Tools](https://bssw.io/items/planning-for-better-software-psip-tools)
+- [A Lightweight Software Process Improvement using Productivity and Sustainability Improvement Planning (PSIP)](https://bssw.io/items/a-lightweight-software-process-improvement-using-productivity-and-sustainability-improvement-planning-psip)
+- [What makes PSIP suitable for Exascale Computing Project?](https://bssw.io/items/what-makes-psip-suitable-for-exascale-computing-project)
+- [FLASH5 Refactoring and PSIP](https://bssw.io/blog_posts/flash5-refactoring-and-psip)
+- [Adopting Continuous Integration for Long-Timescale Materials Simulation](https://bssw.io/blog_posts/adopting-continuous-integration-for-long-timescale-materials-simulation)
 
 
 <!---

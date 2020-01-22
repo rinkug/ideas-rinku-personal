@@ -53,7 +53,7 @@ The PSIP team is happy to answer questions or to help you on your quest of impro
 
 
 # Are there other articles to read on PSIP?
-The [PSIP repository](https://github.com/bssw-psip/practice-guides/blob/master/README.md) is an excellent place to start the PSIP journey. In addition, the following resources may be beneficial in providing more information on PSIPs.
+The [PSIP repository](https://github.com/bssw-psip/practice-guides/blob/master/README.md) is an excellent place to start the PSIP journey. In addition, the following resources may be beneficial in providing more information on PSIPs on this site.
 
 - [Planning for Better Software: PSIP Tools](https://bssw.io/items/planning-for-better-software-psip-tools)
 - [A Lightweight Software Process Improvement using Productivity and Sustainability Improvement Planning (PSIP)](https://bssw.io/items/a-lightweight-software-process-improvement-using-productivity-and-sustainability-improvement-planning-psip)
@@ -64,7 +64,7 @@ The [PSIP repository](https://github.com/bssw-psip/practice-guides/blob/master/R
 
 <!---
 Publish: no
-RSS update: 2019-08-27
+RSS update: 2020-02-02
 Categories: planning, development, reliability
 Topics: software process improvement, refactoring, testing
 Tags: bssw-blog-article
